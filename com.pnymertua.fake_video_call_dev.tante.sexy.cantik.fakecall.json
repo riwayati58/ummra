@@ -1,0 +1,12 @@
+{
+  "Ads":[
+    {
+      "interval_inters": "1",
+	"interval_native":"2",
+      "openads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_nativ": "ca-app-pub-3940256099942544/2247696110",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111"
+    }
+  ]
+}
